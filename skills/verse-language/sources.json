@@ -1,0 +1,36 @@
+{
+  "repository": "https://github.com/verselang/book",
+  "revision": "2af9dfd79c46ce91623e00c9088a342842ad785b",
+  "license": "CC0-1.0",
+  "reviewedAt": "2026-10-03",
+  "compatibility": "language-reference-only",
+  "uefnCompiled": false,
+  "notes": "Curated original guidance; no UEFN compile or gameplay validation. Book tests and runtime tools are not bundled.",
+  "files": [
+    {
+      "path": "docs/index.md",
+      "sha256": "a5ef06a710ce08fd9e300685e4cfb960ba3e85b3618a48afa7662bd88fce2352",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/index.md"
+    },
+    {
+      "path": "docs/00_overview.md",
+      "sha256": "93ef404d4e49464ec9e5e3b8a2b6a83df8e50a6f1f1a9e0f65da80b5084b7489",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/00_overview.md"
+    },
+    {
+      "path": "docs/01_expressions.md",
+      "sha256": "6dd2645f99057774fd82dfbaa425c69a4bb9b04baac90bdd9236639320c7fdef",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/01_expressions.md"
+    },
+    {
+      "path": "docs/04_operators.md",
+      "sha256": "deb2c4716cb8524204efbcaf969db545602ecea2d75d7bdf1c0de2f8b8964003",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/04_operators.md"
+    },
+    {
+      "path": "docs/07_control.md",
+      "sha256": "ee7589f51fa904fc69f670ef61c433f7154c7f638623d4fcc1566d447e7576f0",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/07_control.md"
+    }
+  ]
+}

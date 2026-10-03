@@ -1,0 +1,31 @@
+{
+  "repository": "https://github.com/verselang/book",
+  "revision": "2af9dfd79c46ce91623e00c9088a342842ad785b",
+  "license": "CC0-1.0",
+  "reviewedAt": "2026-10-03",
+  "compatibility": "language-reference-only",
+  "uefnCompiled": false,
+  "notes": "Curated original guidance; no UEFN compile or gameplay validation. Book tests and runtime tools are not bundled.",
+  "files": [
+    {
+      "path": "docs/index.md",
+      "sha256": "a5ef06a710ce08fd9e300685e4cfb960ba3e85b3618a48afa7662bd88fce2352",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/index.md"
+    },
+    {
+      "path": "docs/03_containers.md",
+      "sha256": "574f3fb596e088b98909b1829a3a4dc77f94f02d522b4d51888da8e0feafe86d",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/03_containers.md"
+    },
+    {
+      "path": "docs/17_persistable.md",
+      "sha256": "134442b000bd500ab6a291181a01b43243ca2bd6b92e22abe55f5fecc634181d",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/17_persistable.md"
+    },
+    {
+      "path": "docs/18_evolution.md",
+      "sha256": "901a90288a2bdf79a8ab7af09340ab74e4d189a86a7091d0ee0a9975c5bdce21",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/18_evolution.md"
+    }
+  ]
+}

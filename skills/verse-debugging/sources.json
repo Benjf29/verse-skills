@@ -1,0 +1,36 @@
+{
+  "repository": "https://github.com/verselang/book",
+  "revision": "2af9dfd79c46ce91623e00c9088a342842ad785b",
+  "license": "CC0-1.0",
+  "reviewedAt": "2026-10-03",
+  "compatibility": "language-reference-only",
+  "uefnCompiled": false,
+  "notes": "Curated original guidance; no UEFN compile or gameplay validation. Book tests and runtime tools are not bundled.",
+  "files": [
+    {
+      "path": "docs/index.md",
+      "sha256": "a5ef06a710ce08fd9e300685e4cfb960ba3e85b3618a48afa7662bd88fce2352",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/index.md"
+    },
+    {
+      "path": "docs/VerseSyntaxValidation.md",
+      "sha256": "03535030e6d8bc0f264485534e9336e9ed64e455fd53d9b2f1eb9ac362b2da7e",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/VerseSyntaxValidation.md"
+    },
+    {
+      "path": "docs/08_failure.md",
+      "sha256": "faa52bd357d096348f6997a3897396127e6c373e66526e2d92892f276344b4b8",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/08_failure.md"
+    },
+    {
+      "path": "docs/13_effects.md",
+      "sha256": "3c38f83bf6dfb9d04b8497e042429eaa0ba441e5b33a7e7ddd3631f1097dff75",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/13_effects.md"
+    },
+    {
+      "path": "docs/14_concurrency.md",
+      "sha256": "b85bc43b090dfd8783b1438df24cf0320fd152f0205eb48980b61e464fe230c4",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/14_concurrency.md"
+    }
+  ]
+}

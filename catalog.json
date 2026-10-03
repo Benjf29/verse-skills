@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "name": "verse-skills",
+  "version": "0.1.0",
+  "repository": "https://github.com/Benjf29/verse-skills",
+  "license": "MIT AND CC0-1.0",
+  "skills": [
+    {
+      "id": "verse-language",
+      "name": "Verse — langage et syntaxe",
+      "description": "Explain or edit Verse expressions, operators, declarations and control flow; route a broader Verse question to the relevant language topic. Excludes Fortnite device APIs and editor setup.",
+      "entrypoint": "SKILL.md",
+      "files": [
+        {
+          "path": "LICENSE",
+          "sha256": "980e060914d79d1bc27fc8e6b6a731f5fdfe72cef2f3738a5b09423dc37c2018"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "635d0b7492b29464d4ae27d0370f358774853a5dd20fb70d4044e49ae8d82ee3"
+        },
+        {
+          "path": "references/BOOK-LICENSE.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+        },
+        {
+          "path": "references/examples.md",
+          "sha256": "33307dc17f73b3a15bbe3178ff31f097d2ada15bbe6662d048c907a9a534b7e4"
+        },
+        {
+          "path": "references/guide.md",
+          "sha256": "002e76fa4c143d1493a4e0d2883ecebd04378ecab069b1ec0e4cee4766a4179f"
+        },
+        {
+          "path": "sources.json",
+          "sha256": "fc2732ab11202557f4e0ac6ff04144a1aeb5f46b5db3b420747796e879c9390b"
+        }
+      ]
+    },
+    {
+      "id": "verse-types-and-data",
+      "name": "Verse — types et données",
+      "description": "Choose and debug Verse primitives, options, arrays, maps, tuples, subtyping and mutable data. Use for type mismatches and fallible collection access, not saved-data migration.",
+      "entrypoint": "SKILL.md",
+      "files": [
+        {
+          "path": "LICENSE",
+          "sha256": "980e060914d79d1bc27fc8e6b6a731f5fdfe72cef2f3738a5b09423dc37c2018"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "9147cd2fe3f0681df20885bfaef1b8a54e1a2744d70c3d2d894c2e97a45ee26a"
+        },
+        {
+          "path": "references/BOOK-LICENSE.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+        },
+        {
+          "path": "references/examples.md",
+          "sha256": "0738bc063e928cdd3d6cc110d626dcdf9ca9c9d7f76ffe51f3aa440abce12c14"
+        },
+        {
+          "path": "references/guide.md",
+          "sha256": "972fd3656fe1b193ed0fe39a5ef22dd226cc16781abb9feb323f25abf43f1ac0"
+        },
+        {
+          "path": "sources.json",
+          "sha256": "d24442594af20d0f5c0d2fc8e0275393844b2cb724177756777c9273dc9613e1"
+        }
+      ]
+    },
+    {
+      "id": "verse-failure-and-effects",
+      "name": "Verse — échecs et effets",
+      "description": "Diagnose Verse failure contexts, decides/transacts/no_rollback constraints and propagation of function effects. Use when fallible calls or writes fail to compile; excludes editor permissions.",
+      "entrypoint": "SKILL.md",
+      "files": [
+        {
+          "path": "LICENSE",
+          "sha256": "980e060914d79d1bc27fc8e6b6a731f5fdfe72cef2f3738a5b09423dc37c2018"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "acf77ea130927c540760e8253e4b3b994769c51353928abf2a6186853dd027b3"
+        },
+        {
+          "path": "references/BOOK-LICENSE.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+        },
+        {
+          "path": "references/examples.md",
+          "sha256": "94f92271513d0a04f4d9614bc3472fd40ccab4fc72dc6c3de2648d5c0767590d"
+        },
+        {
+          "path": "references/guide.md",
+          "sha256": "c543b173e274a35443663392ef87a7029247530cf6bb6dc6f4dd7f41c219bd4c"
+        },
+        {
+          "path": "sources.json",
+          "sha256": "7aa2ba479fcd689fbf27a075bd7f1b909e32cb6009e26211dc7f1c8d9a0eefe0"
+        }
+      ]
+    },
+    {
+      "id": "verse-concurrency",
+      "name": "Verse — concurrence",
+      "description": "Design or debug Verse sync, race, rush, branch, spawn, task lifetime, events and cancellation. Use for async control flow and cleanup, not parallel-agent orchestration.",
+      "entrypoint": "SKILL.md",
+      "files": [
+        {
+          "path": "LICENSE",
+          "sha256": "980e060914d79d1bc27fc8e6b6a731f5fdfe72cef2f3738a5b09423dc37c2018"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "195b72cce76a4ba37db62f966d14d3e60a2c42971460b1a1b7c4130d474ad9c5"
+        },
+        {
+          "path": "references/BOOK-LICENSE.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+        },
+        {
+          "path": "references/examples.md",
+          "sha256": "9d08d66c3c254f506450af8edf6124bbf729bfde07db8967f5a516fe760c6604"
+        },
+        {
+          "path": "references/guide.md",
+          "sha256": "9f59b4fb5019630ccf27301418cc146f2a035b99d360a8eb8dd78653138af306"
+        },
+        {
+          "path": "sources.json",
+          "sha256": "6730f2143cc11db27a6b660b29c8166d47c19952f8449e9efffebb517d7d0d8d"
+        }
+      ]
+    },
+    {
+      "id": "verse-architecture",
+      "name": "Verse — architecture",
+      "description": "Structure Verse modules, paths, functions, classes, interfaces, structs and visibility. Use for refactoring boundaries and construction/type contracts, not editor assets or deployment.",
+      "entrypoint": "SKILL.md",
+      "files": [
+        {
+          "path": "LICENSE",
+          "sha256": "980e060914d79d1bc27fc8e6b6a731f5fdfe72cef2f3738a5b09423dc37c2018"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "d9a94772aa6efec16cd1e626845eb6d814a6172d50819434622a6bfb4627ae4e"
+        },
+        {
+          "path": "references/BOOK-LICENSE.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+        },
+        {
+          "path": "references/examples.md",
+          "sha256": "1eb6b60a59f6f24cc22317965058df22715f5d3bc3933bf5974f4cd5eab0c8bf"
+        },
+        {
+          "path": "references/guide.md",
+          "sha256": "2f3a0a28b40cd5cafab285f41af783f94a273658e0b3e3a460c5518931a01bbb"
+        },
+        {
+          "path": "sources.json",
+          "sha256": "11b3bd9d87e685380f1797c448c79fbaee1a5c26ef138c545e76e21898eb19ff"
+        }
+      ]
+    },
+    {
+      "id": "verse-persistence",
+      "name": "Verse — persistance",
+      "description": "Design and review Verse persistable data and published-schema evolution. Use for player save structures and compatibility changes; verify UEFN-specific limits separately.",
+      "entrypoint": "SKILL.md",
+      "files": [
+        {
+          "path": "LICENSE",
+          "sha256": "980e060914d79d1bc27fc8e6b6a731f5fdfe72cef2f3738a5b09423dc37c2018"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "978512aa160af3405c1c38102807c28405414e356bfb623a9e8f77c34fbffd77"
+        },
+        {
+          "path": "references/BOOK-LICENSE.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+        },
+        {
+          "path": "references/examples.md",
+          "sha256": "134a55d0b7075988cff6af5a47d454cc5bf82d5c9aa9c767f216acd2e1f77da9"
+        },
+        {
+          "path": "references/guide.md",
+          "sha256": "e9ac8a49e71a2632ff9ed323e9ade9f603eacbc23939952fb8a45a75aabdb0f0"
+        },
+        {
+          "path": "sources.json",
+          "sha256": "b88b02d17d5f9be3c8c36e8fc1b5c9ad375cdf4ef95686110f2ac53fb593bae3"
+        }
+      ]
+    },
+    {
+      "id": "verse-debugging",
+      "name": "Verse — diagnostic",
+      "description": "Investigate Verse parser, type, effect, import and async diagnostics using source evidence. Use for debugging or review; report unavailable compiler validation explicitly.",
+      "entrypoint": "SKILL.md",
+      "files": [
+        {
+          "path": "LICENSE",
+          "sha256": "980e060914d79d1bc27fc8e6b6a731f5fdfe72cef2f3738a5b09423dc37c2018"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "e6f7bcc84a9991e6feb50770ae9fe0045ecc8ae5e11a06bba3c2b48abf7c9514"
+        },
+        {
+          "path": "references/BOOK-LICENSE.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+        },
+        {
+          "path": "references/examples.md",
+          "sha256": "fcd78b67b0af82a8db138ebc46b6bbc3e2de2ab4e242b4697eeb8d44d5499557"
+        },
+        {
+          "path": "references/guide.md",
+          "sha256": "539c8e9849bfddabe6639699ef314d23233519a2c49dcb389541424bb9ac5c1a"
+        },
+        {
+          "path": "sources.json",
+          "sha256": "1a891c0c35402b2660c9f385f8c8c34a0faf8eafd3f81edbfce0b5b10fdc0e68"
+        }
+      ]
+    }
+  ]
+}

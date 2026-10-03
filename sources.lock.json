@@ -1,0 +1,118 @@
+{
+  "repository": "https://github.com/verselang/book",
+  "revision": "2af9dfd79c46ce91623e00c9088a342842ad785b",
+  "license": "CC0-1.0",
+  "reviewedAt": "2026-10-03",
+  "files": [
+    {
+      "path": "docs/index.md",
+      "sha256": "a5ef06a710ce08fd9e300685e4cfb960ba3e85b3618a48afa7662bd88fce2352",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/index.md"
+    },
+    {
+      "path": "docs/00_overview.md",
+      "sha256": "93ef404d4e49464ec9e5e3b8a2b6a83df8e50a6f1f1a9e0f65da80b5084b7489",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/00_overview.md"
+    },
+    {
+      "path": "docs/01_expressions.md",
+      "sha256": "6dd2645f99057774fd82dfbaa425c69a4bb9b04baac90bdd9236639320c7fdef",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/01_expressions.md"
+    },
+    {
+      "path": "docs/04_operators.md",
+      "sha256": "deb2c4716cb8524204efbcaf969db545602ecea2d75d7bdf1c0de2f8b8964003",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/04_operators.md"
+    },
+    {
+      "path": "docs/07_control.md",
+      "sha256": "ee7589f51fa904fc69f670ef61c433f7154c7f638623d4fcc1566d447e7576f0",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/07_control.md"
+    },
+    {
+      "path": "docs/02_primitives.md",
+      "sha256": "c77fb4b5a4c1cdedc47f4a563b7e7708f5e70f5bbadc5f5f61acff41a0df549d",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/02_primitives.md"
+    },
+    {
+      "path": "docs/03_containers.md",
+      "sha256": "574f3fb596e088b98909b1829a3a4dc77f94f02d522b4d51888da8e0feafe86d",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/03_containers.md"
+    },
+    {
+      "path": "docs/05_mutability.md",
+      "sha256": "0c081c25d6825cc7b93d0e06b18b2105484cdf1507065f99a9715e59265b47c3",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/05_mutability.md"
+    },
+    {
+      "path": "docs/11_types.md",
+      "sha256": "8e1932135745e784923749a503ef5ee127240d4a72940953f045e663b6be1c53",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/11_types.md"
+    },
+    {
+      "path": "docs/06_functions.md",
+      "sha256": "a70ef606f525341775ba33d5c7fcf280b7acdca78ca8aa51c27a6a43b1b5926b",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/06_functions.md"
+    },
+    {
+      "path": "docs/08_failure.md",
+      "sha256": "faa52bd357d096348f6997a3897396127e6c373e66526e2d92892f276344b4b8",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/08_failure.md"
+    },
+    {
+      "path": "docs/13_effects.md",
+      "sha256": "3c38f83bf6dfb9d04b8497e042429eaa0ba441e5b33a7e7ddd3631f1097dff75",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/13_effects.md"
+    },
+    {
+      "path": "docs/14_concurrency.md",
+      "sha256": "b85bc43b090dfd8783b1438df24cf0320fd152f0205eb48980b61e464fe230c4",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/14_concurrency.md"
+    },
+    {
+      "path": "docs/15_live_variables.md",
+      "sha256": "fd4c7550108395987b066df991ccef3d5155532554722c32c3390dd7f85c3a39",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/15_live_variables.md"
+    },
+    {
+      "path": "docs/09_structs_enums.md",
+      "sha256": "240f8d4e7f432ec52c9db6d51ac52d4e6ca77e73c3fd17dac25ab1b88fa5ae3c",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/09_structs_enums.md"
+    },
+    {
+      "path": "docs/10_classes_interfaces.md",
+      "sha256": "8debb3fec3aa5743f76ff6c6549ab02bea483b03ab90ab44f5f329d0a9a842bf",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/10_classes_interfaces.md"
+    },
+    {
+      "path": "docs/12_access.md",
+      "sha256": "d84705c27ec9c177262f94bbbd91f650b08b7e4ed3eea605602c955604f08ae8",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/12_access.md"
+    },
+    {
+      "path": "docs/16_modules.md",
+      "sha256": "354584b70854e3d6ff82c3e673b0989717de25d93d5f04f8f53cfc177877e03f",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/16_modules.md"
+    },
+    {
+      "path": "docs/17_persistable.md",
+      "sha256": "134442b000bd500ab6a291181a01b43243ca2bd6b92e22abe55f5fecc634181d",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/17_persistable.md"
+    },
+    {
+      "path": "docs/18_evolution.md",
+      "sha256": "901a90288a2bdf79a8ab7af09340ab74e4d189a86a7091d0ee0a9975c5bdce21",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/18_evolution.md"
+    },
+    {
+      "path": "docs/VerseSyntaxValidation.md",
+      "sha256": "03535030e6d8bc0f264485534e9336e9ed64e455fd53d9b2f1eb9ac362b2da7e",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/VerseSyntaxValidation.md"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/LICENSE"
+    }
+  ]
+}

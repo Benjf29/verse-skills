@@ -1,0 +1,41 @@
+{
+  "repository": "https://github.com/verselang/book",
+  "revision": "2af9dfd79c46ce91623e00c9088a342842ad785b",
+  "license": "CC0-1.0",
+  "reviewedAt": "2026-10-03",
+  "compatibility": "language-reference-only",
+  "uefnCompiled": false,
+  "notes": "Curated original guidance; no UEFN compile or gameplay validation. Book tests and runtime tools are not bundled.",
+  "files": [
+    {
+      "path": "docs/index.md",
+      "sha256": "a5ef06a710ce08fd9e300685e4cfb960ba3e85b3618a48afa7662bd88fce2352",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/index.md"
+    },
+    {
+      "path": "docs/06_functions.md",
+      "sha256": "a70ef606f525341775ba33d5c7fcf280b7acdca78ca8aa51c27a6a43b1b5926b",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/06_functions.md"
+    },
+    {
+      "path": "docs/09_structs_enums.md",
+      "sha256": "240f8d4e7f432ec52c9db6d51ac52d4e6ca77e73c3fd17dac25ab1b88fa5ae3c",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/09_structs_enums.md"
+    },
+    {
+      "path": "docs/10_classes_interfaces.md",
+      "sha256": "8debb3fec3aa5743f76ff6c6549ab02bea483b03ab90ab44f5f329d0a9a842bf",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/10_classes_interfaces.md"
+    },
+    {
+      "path": "docs/12_access.md",
+      "sha256": "d84705c27ec9c177262f94bbbd91f650b08b7e4ed3eea605602c955604f08ae8",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/12_access.md"
+    },
+    {
+      "path": "docs/16_modules.md",
+      "sha256": "354584b70854e3d6ff82c3e673b0989717de25d93d5f04f8f53cfc177877e03f",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/16_modules.md"
+    }
+  ]
+}

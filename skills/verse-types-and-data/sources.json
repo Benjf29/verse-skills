@@ -1,0 +1,36 @@
+{
+  "repository": "https://github.com/verselang/book",
+  "revision": "2af9dfd79c46ce91623e00c9088a342842ad785b",
+  "license": "CC0-1.0",
+  "reviewedAt": "2026-10-03",
+  "compatibility": "language-reference-only",
+  "uefnCompiled": false,
+  "notes": "Curated original guidance; no UEFN compile or gameplay validation. Book tests and runtime tools are not bundled.",
+  "files": [
+    {
+      "path": "docs/index.md",
+      "sha256": "a5ef06a710ce08fd9e300685e4cfb960ba3e85b3618a48afa7662bd88fce2352",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/index.md"
+    },
+    {
+      "path": "docs/02_primitives.md",
+      "sha256": "c77fb4b5a4c1cdedc47f4a563b7e7708f5e70f5bbadc5f5f61acff41a0df549d",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/02_primitives.md"
+    },
+    {
+      "path": "docs/03_containers.md",
+      "sha256": "574f3fb596e088b98909b1829a3a4dc77f94f02d522b4d51888da8e0feafe86d",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/03_containers.md"
+    },
+    {
+      "path": "docs/05_mutability.md",
+      "sha256": "0c081c25d6825cc7b93d0e06b18b2105484cdf1507065f99a9715e59265b47c3",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/05_mutability.md"
+    },
+    {
+      "path": "docs/11_types.md",
+      "sha256": "8e1932135745e784923749a503ef5ee127240d4a72940953f045e663b6be1c53",
+      "url": "https://github.com/verselang/book/blob/2af9dfd79c46ce91623e00c9088a342842ad785b/docs/11_types.md"
+    }
+  ]
+}
